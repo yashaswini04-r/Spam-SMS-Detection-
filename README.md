@@ -22,7 +22,3 @@ Report issues or suggest features through GitHub Issues
 
 License:
 Usually under open-source licenses like MIT or Apache 2.0, allowing free use/modification with attribution
-
-Contact Information:
-Maintainer’s email or GitHub profile URL for issues, questions, or collaboration
-This structure ensures ease of setup, understanding, contribution, and legal clarity while enabling practical spam SMS detection usage
